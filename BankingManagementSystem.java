@@ -6,7 +6,7 @@ public class BankingManagementSystem {
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner =  new Scanner(System.in);
         
         try {
              
